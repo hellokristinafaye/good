@@ -64,6 +64,9 @@ nav{
     display: flex;
     color: #fff;
 }
+.feature div {
+    margin-left: 30px;
+}
 .one {
     top: 450px;
     right: 50px;
