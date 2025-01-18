@@ -43,7 +43,7 @@ nav{
     height: 1000px;
     position: absolute;
     top: 50%;
-    left: -10%;
+    left: 0%;
     transform: translateY(-50%);
     /* I guess this centers the page vertically? */
 }
@@ -61,6 +61,8 @@ nav{
 }
 .feature {
     position: absolute;
+    display: flex;
+    color: #fff;
 }
 .one {
     top: 450px;
