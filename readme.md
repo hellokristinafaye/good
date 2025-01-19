@@ -1,4 +1,4 @@
-**# Basic Website based onGreatStack Tutorial README
+# **Basic Website based onGreatStack Tutorial README**
 
 This project is an interactive UI featuring rotating elements, animated control buttons, and a clean design. Below is a breakdown of the technologies used, the key features of the project, and potential areas for future development.
 
